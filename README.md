@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tesfaye
+- 👋 Hello, my name is Tesfaye
 - 👀 I’m interested in xAI,
-- 🌱 I’m currently learning MSc in Computer Engineering at UNiPi
-- 💞️ I’m looking to collaborate on projects related to Explainable AI, Continual Learning, and Deep Representation Learning.
-- 📫 How to reach me mesay1964@gmail.com is my personal email.
+- 🌱 I currently join the University of Pisa  for my MSc in Computer Engineering.
+- 💞️ I’m looking to collaborate on projects related to ML,Explainable AI, Continual Learning, and Deep Representation Learning.
+- 📫 How to reach me? Just drop a message here-> mesay1964@gmail.com
 
 <!---
 LijTesfaye/LijTesfaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
