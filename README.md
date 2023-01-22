@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Tesfaye
 - 👀 I’m interested in xAI,
-- 🌱 I currently persuing my MSc in CE at the University of Pisa, Italy.
+- 🌱 I'm currently persuing my MSc in CE at the University of Pisa, Italy.
 - 💞️ I’m looking to collaborate on projects related to ML,Explainable AI, Continual Learning, and Deep Representation Learning.
 - 📫 How to reach me? Just drop a message here-> mesay1964@gmail.com
 
