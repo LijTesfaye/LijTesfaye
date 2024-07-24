@@ -29,4 +29,5 @@ Link to the course project is here.
 
 # Year II, Semeter II
 ## (11) Mobile and Social Sensing Systems	
+## (12) Elective {Network Security}
 
