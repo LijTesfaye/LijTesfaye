@@ -11,7 +11,16 @@ You can click the Preview link to take a look at your changes.
 # Course Projets for MSc in Computer Engineering at the University of Pisa
 # Year I, Semester I
 ## (1) Electronics and Communications Systems
-This is the link to the project of the Electronics course.
+This is the git repo [link](https://github.com/LijTesfaye/IIR-Filter-in-VHDL) for the project of this course.
+project Topic: IIR filter Design
+
+Tools used:-
+- Vivado for desgin verification.
+- ModelSim : Desinging the IIR filter and the VHDL code is writen here.
+- SIMULINK :- For the Filter design in the Matlab side.
+- VHDL :- the language we used hardware coding
+- Matlab:- To check if our design on a real audio.
+- 
 ## (2) Large-Scale and Multi-Structured Databases
 Link to the course project is here.
 ## (3) Performance Evaluation of Computer Systems and Networks	
