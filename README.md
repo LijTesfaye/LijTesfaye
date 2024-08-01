@@ -38,5 +38,7 @@ Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group)
 
 # Year II, Semeter II
 ## (11) Mobile and Social Sensing Systems	
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
+Here is the [link](https://github.com/LijTesfaye/Emotion-Tracker) to access the  the project for this course.
 ## (12) Elective {Network Security}
 
