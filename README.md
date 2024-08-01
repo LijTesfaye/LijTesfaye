@@ -30,7 +30,7 @@ Link to the course project is here.
 ## (5) Intelligent Systems	
 ## (6) Foundations of Cybersecurity
 ## (7) Cloud Computing	
-
+Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group) to access the  the project for this cloud computing course.
 # Year II, Semeter I
 ## (8) Distributed Systems and Middleware Technologies	
 ## (9) Software Systems Engineering	
