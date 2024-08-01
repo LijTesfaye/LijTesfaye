@@ -47,6 +47,10 @@ Here is the [Link](https://github.com/LijTesfaye/UMDB_PROJECT_For_LargeScaleCour
 ### Link 
 This [link](https://github.com/LijTesfaye/FoC_BBS_2024_Aquila_Group) directs to the project of the course.
 ## (7) Cloud Computing	
+### Technologies Used
+![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)
+![Hadoop's MapReduce](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apache-hadoop&logoColor=black)
+### Link
 Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group) to access the  the project for this cloud computing course.
 # Year II, Semeter I
 ## (8) Distributed Systems and Middleware Technologies	
