@@ -49,7 +49,7 @@ This [link](https://github.com/LijTesfaye/FoC_BBS_2024_Aquila_Group) directs to 
 ## (7) Cloud Computing	
 ### Technologies Used
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)
-![Hadoop's MapReduce](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apache-hadoop&logoColor=black)
+![MapReduce](https://img.shields.io/badge/MapReduce-FF8C00.svg?logo=apache&logoColor=white)
 ### Link
 Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group) to access the  the project for this cloud computing course.
 # Year II, Semeter I
