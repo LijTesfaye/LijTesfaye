@@ -42,6 +42,8 @@ Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-2C2C2C.svg?logo=neural-network&logoColor=white)
 ### Link 
 Here is the [link](https://github.com/LijTesfaye/Emotion-Tracker) to access the  the project for this course.
 
