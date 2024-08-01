@@ -42,6 +42,8 @@ Here is the [Link]() to the course project is here.
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412.svg?logo=openssl&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white)
 ![iDraw](https://img.shields.io/badge/iDraw-FF4500.svg?logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=white)
+
 ### Link 
 This [link](https://github.com/LijTesfaye/FoC_BBS_2024_Aquila_Group) directs to the project of the course.
 ## (7) Cloud Computing	
