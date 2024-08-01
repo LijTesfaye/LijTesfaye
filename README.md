@@ -45,12 +45,14 @@ Here is the [Link](https://github.com/LijTesfaye/UMDB_PROJECT_For_LargeScaleCour
 ![CNN](https://img.shields.io/badge/CNN-2C2C2C.svg?logo=neural-network&logoColor=white)
 ![RNN](https://img.shields.io/badge/RNN-2C2C2C.svg?logo=neural-network&logoColor=white)
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-FF6600.svg?logoColor=white)
+![MLP](https://img.shields.io/badge/MLP-8E44AD.svg?logo=neural-network&logoColor=white)
+
 
 
 
 
 ### Link 
-Click  this [link](https://github.com/LijTesfaye/Intelligent_Systems_Final)to see more about this courses' project.
+Click  this [link](https://github.com/LijTesfaye/Intelligent_Systems_Final) to see more about this courses' project.
 
 ## (6) Foundations of Cybersecurity
 ### Technologies Used
