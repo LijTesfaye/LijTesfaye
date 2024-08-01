@@ -78,8 +78,14 @@ Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group)
 ## (9) Software Systems Engineering	
 ## (10) Advanced Network Architectures and Wireless Systems	 
 ### Technologies Used
+- ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white) Java
+- ![SDN](https://img.shields.io/badge/SDN-007ACC.svg?logo=network&logoColor=white) SDN
+- ![Quantum Internet](https://img.shields.io/badge/Quantum%20Internet-8A2BE2.svg?logoColor=white) Quantum Internet
+- ![NetSquid](https://img.shields.io/badge/NetSquid-FF5722.svg?logoColor=white) NetSquid
+- ![Floodlight](https://img.shields.io/badge/Floodlight-000000.svg?logoColor=white) Floodlight
 
 ### Link 
+Here is the [link](https://github.com/LijTesfaye/ANAWS-SDN-Tess/tree/master) to access the project.
 
 # Year II, Semeter II
 ## (11) Mobile and Social Sensing Systems	
