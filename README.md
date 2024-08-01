@@ -11,6 +11,13 @@ You can click the Preview link to take a look at your changes.
 # Course Projets for MSc in Computer Engineering at the University of Pisa
 # Year I, Semester I
 ## (1) Electronics and Communications Systems
+### Technologies Used
+![ModelSim](https://img.shields.io/badge/ModelSim-007ACC.svg?logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-000080.svg?logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-F68B1F.svg?logoColor=white)
+
+### Link 
 This is the git repo [link](https://github.com/LijTesfaye/IIR-Filter-in-VHDL) for the project of this course.
 project Topic: IIR filter Design
 
