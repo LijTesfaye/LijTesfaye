@@ -16,18 +16,13 @@ You can click the Preview link to take a look at your changes.
 ![VHDL](https://img.shields.io/badge/VHDL-000080.svg?logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-F68B1F.svg?logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8.svg?logoColor=white)
+
 
 ### Link 
 This is the git repo [link](https://github.com/LijTesfaye/IIR-Filter-in-VHDL) for the project of this course.
 project Topic: IIR filter Design
 
-Tools used:-
-- Vivado for desgin verification.
-- ModelSim : Desinging the IIR filter and the VHDL code is writen here.
-- SIMULINK :- For the Filter design in the Matlab side.
-- VHDL :- the language we used hardware coding
-- Matlab:- To check if our design on a real audio.
-- 
 ## (2) Large-Scale and Multi-Structured Databases
 Link to the course project is here.
 ## (3) Performance Evaluation of Computer Systems and Networks	
