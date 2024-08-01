@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Tesfaye
+- 👋 Hello, my name is **Tesfaye**
 - 👀 I’m interested in xAI,
 - 🌱 I'm currently persuing my MSc in CE at the University of Pisa, Italy.
 - 💞️ I’m looking to collaborate on projects related to ML,Explainable AI, Continual Learning, and Deep Representation Learning.
@@ -46,6 +46,7 @@ Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-2C2C2C.svg?logo=neural-network&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F.svg?logo=openstreetmap&logoColor=white)
 ### Link 
 Here is the [link](https://github.com/LijTesfaye/Emotion-Tracker) to access the  the project for this course.
 
