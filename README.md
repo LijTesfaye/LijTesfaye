@@ -41,8 +41,17 @@ Here is the [Link](https://github.com/LijTesfaye/UMDB_PROJECT_For_LargeScaleCour
 ## (4) Computer Architecture
 ## (5) Intelligent Systems	
 ### Technologies Used
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-2C2C2C.svg?logo=neural-network&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-2C2C2C.svg?logo=neural-network&logoColor=white)
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-FF6600.svg?logoColor=white)
+
+
+
 
 ### Link 
+Click  this [link](https://github.com/LijTesfaye/Intelligent_Systems_Final)to see more about this courses' project.
+
 ## (6) Foundations of Cybersecurity
 ### Technologies Used
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
