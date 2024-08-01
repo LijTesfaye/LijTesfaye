@@ -72,8 +72,18 @@ Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group)
 # Year II, Semeter I
 ## (8) Distributed Systems and Middleware Technologies	
 ### Technologies Used
-
+![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533.svg?logo=erlang&logoColor=white)
+![Mnesia](https://img.shields.io/badge/Mnesia-000080.svg?logoColor=white)
+![EJB](https://img.shields.io/badge/EJB-007396.svg?logo=java&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-FF7800.svg?logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396.svg?logo=java&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-4CAF50.svg?logo=api&logoColor=white)
 ### Link 
+Here is the [link](https://github.com/LijTesfaye/DSMT_AwardsProjectFinal) to the project.
 
 ## (9) Software Systems Engineering	
 ## (10) Advanced Network Architectures and Wireless Systems	 
