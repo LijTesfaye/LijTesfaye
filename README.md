@@ -24,13 +24,12 @@ project Topic: IIR filter Design
 
 ## (2) Large-Scale and Multi-Structured Databases
 ### Technologies Used
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
-
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1.svg?logo=neo4j&logoColor=white)
-
 ![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white)
 
 ### Link 
