@@ -1,3 +1,5 @@
+
+
 - 👋 Hello, my name is **Tesfaye**
 - 👀 I’m interested in xAI,
 - 🌱 I'm currently persuing my MSc in CE at the University of Pisa, Italy.
@@ -23,7 +25,7 @@ This is the git repo [link](https://github.com/LijTesfaye/IIR-Filter-in-VHDL) fo
 project Topic: IIR filter Design
 
 ## (2) Large-Scale and Multi-Structured Databases
-### Technologies Used
+### ✨Technologies Used
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
@@ -40,16 +42,12 @@ Here is the [Link](https://github.com/LijTesfaye/UMDB_PROJECT_For_LargeScaleCour
 # Year I, Semester II
 ## (4) Computer Architecture
 ## (5) Intelligent Systems	
-### Technologies Used
+### ✨Technologies Used
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-2C2C2C.svg?logo=neural-network&logoColor=white)
 ![RNN](https://img.shields.io/badge/RNN-2C2C2C.svg?logo=neural-network&logoColor=white)
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-FF6600.svg?logoColor=white)
 ![MLP](https://img.shields.io/badge/MLP-8E44AD.svg?logo=neural-network&logoColor=white)
-
-
-
-
 
 ### Link 
 Click  this [link](https://github.com/LijTesfaye/Intelligent_Systems_Final) to see more about this courses' project.
