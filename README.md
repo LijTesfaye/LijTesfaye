@@ -25,6 +25,14 @@ project Topic: IIR filter Design
 ## (2) Large-Scale and Multi-Structured Databases
 ### Technologies Used
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
+
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1.svg?logo=neo4j&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white)
+
 ### Link 
 Here is the [Link](https://github.com/LijTesfaye/UMDB_PROJECT_For_LargeScaleCourse) to the course project is here.
 
