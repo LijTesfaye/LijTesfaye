@@ -67,12 +67,15 @@ This [link](https://github.com/LijTesfaye/FoC_BBS_2024_Aquila_Group) directs to 
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apache-hadoop&logoColor=black)
 ![MapReduce](https://img.shields.io/badge/MapReduce-FF8C00.svg?logo=apache&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)
+
 ### Link
 Click this [link](https://github.com/LijTesfaye/kmeans_clustering_toretto_group) to access the  the project for this cloud computing course.
 # Year II, Semeter I
 ## (8) Distributed Systems and Middleware Technologies	
 ### Technologies Used
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-A90533.svg?logo=erlang&logoColor=white)
 ![Mnesia](https://img.shields.io/badge/Mnesia-000080.svg?logoColor=white)
@@ -89,6 +92,7 @@ Here is the [link](https://github.com/LijTesfaye/DSMT_AwardsProjectFinal) to the
 ## (10) Advanced Network Architectures and Wireless Systems	 
 ### Technologies Used
  ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white).
+ ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)
  ![SDN](https://img.shields.io/badge/SDN-007ACC.svg?logo=network&logoColor=white). 
  ![Quantum Internet](https://img.shields.io/badge/Quantum%20Internet-8A2BE2.svg?logoColor=white).
  ![NetSquid](https://img.shields.io/badge/NetSquid-FF5722.svg?logoColor=white).
