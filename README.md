@@ -40,8 +40,6 @@ Here is the [Link](https://github.com/LijTesfaye/UMDB_PROJECT_For_LargeScaleCour
 ## (3) Performance Evaluation of Computer Systems and Networks
 ### ✨Technologies Used
 ![OMNeT++](https://img.shields.io/badge/OMNeT++-1F425F.svg?logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
-
 [![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A248.svg?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
