@@ -129,6 +129,10 @@ Here is the [link](https://github.com/LijTesfaye/ANAWS-SDN-Tess/tree/master) to 
 ### Link 
 Here is the [link](https://github.com/LijTesfaye/Emotion-Tracker) to access the  the project for this course.
 
-## (12) Elective {Network Security}
+## (12) Elective {ICT Risk Assessment}
+- This is an elective course that we presented summary of papers on Image-processing.
+  
+Here is the [link])(https://github.com/LijTesfaye/ICT-Risk-Assessment/blob/main/ICT%20RiskAssessment%20Presentation.pdf) to the paper presentation.
+
 
 
