@@ -51,6 +51,7 @@ Here is the [Link](https://github.com/LijTesfaye/PECSN_project_tess/tree/main/do
 ### ✨Technologies Used
 [![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
+
 📫 This is the git repo [link](https://github.com/LijTesfaye/ParallelBellmanFord-Using-CUDA-C/tree/main) for the project of this course.
 ## (5) Intelligent Systems	
 ### ✨Technologies Used
