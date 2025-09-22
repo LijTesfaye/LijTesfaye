@@ -132,7 +132,7 @@ Here is the [link](https://github.com/LijTesfaye/Emotion-Tracker) to access the 
 ## (12) Elective {ICT Risk Assessment}
 - This is an elective course that we presented summary of papers on Image-processing.
   
-Here is the [link])(https://github.com/LijTesfaye/ICT-Risk-Assessment/blob/main/ICT%20RiskAssessment%20Presentation.pdf) to the paper presentation.
+Here is the [link](https://github.com/LijTesfaye/ICT-Risk-Assessment/blob/main/) to the paper presentation.
 
 
 
