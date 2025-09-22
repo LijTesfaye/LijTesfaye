@@ -48,7 +48,7 @@ Here is the [Link](https://github.com/LijTesfaye/PECSN_project_tess/tree/main/do
 
 # Year I, Semester II
 ## (4) Computer Architecture
-📫 .......
+📫 This is the git repo [link](https://github.com/LijTesfaye/ParallelBellmanFord-Using-CUDA-C/tree/main) for the project of this course.
 ## (5) Intelligent Systems	
 ### ✨Technologies Used
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?logoColor=white)
