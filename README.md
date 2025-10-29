@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Link 
 This is the git repo [link](https://github.com/LijTesfaye/IIR-Filter-in-VHDL) for the project of this course.
-project Topic: IIR filter Design
 
 ## (2) Large-Scale and Multi-Structured Databases
 ### ✨Technologies Used
