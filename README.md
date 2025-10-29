@@ -10,7 +10,7 @@
 LijTesfaye/LijTesfaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Course Projets for MSc in Computer Engineering at the University of Pisa
+# MSc || Computer Engineering || Course Projects || University of Pisa
 # Year I, Semester I
 ## (1) Electronics and Communications Systems
 ### Technologies Used
