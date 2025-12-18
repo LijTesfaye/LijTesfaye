@@ -106,6 +106,10 @@ Here is the [link](https://github.com/LijTesfaye/DSMT_AwardsProjectFinal) to the
 
 ## (9) Software Systems Engineering	
 ### Technologies Used
+
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/) [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![Signavio](https://img.shields.io/badge/Signavio-0A6ED1.svg?logoColor=white)](https://www.signavio.com/) [![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-FF6F00.svg?logoColor=white)](https://www.visual-paradigm.com/) [![Clockify](https://img.shields.io/badge/Clockify-03A9F4.svg?logo=clockify&logoColor=white)](https://clockify.me/) [![Trello](https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white)](https://trello.com/) [![Draw.io](https://img.shields.io/badge/Draw.io-F08705.svg?logo=diagrams.net&logoColor=white)](https://www.diagrams.net/)
+
+
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Signavio](https://img.shields.io/badge/Signavio-0A6ED1.svg?logoColor=white)](https://www.signavio.com/)
