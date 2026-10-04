@@ -145,5 +145,5 @@ Here is the [link](https://github.com/LijTesfaye/Emotion-Tracker) to access the 
 Here is the [link](https://github.com/LijTesfaye/ICT-Risk-Assessment/blob/main/) to the paper presentation.
 
 # Thesis
-- The thesis is on going ...
+- The [Thesis Summary](https://lijtesfaye.github.io/)
 
